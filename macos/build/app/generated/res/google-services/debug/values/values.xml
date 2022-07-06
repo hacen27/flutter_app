@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">336409868348-b0443qjajv0mu28l23sai00hfd4t76s8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uber-ola-and-indriver-cl-27e5f-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">336409868348</string>
+    <string name="google_api_key" translatable="false">AIzaSyCmyvAmm4AGEo9ZV6xJEQ_H8Tu4fYsu7fs</string>
+    <string name="google_app_id" translatable="false">1:336409868348:android:61b7752ce9e068b4556b39</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCmyvAmm4AGEo9ZV6xJEQ_H8Tu4fYsu7fs</string>
+    <string name="google_storage_bucket" translatable="false">uber-ola-and-indriver-cl-27e5f.appspot.com</string>
+    <string name="project_id" translatable="false">uber-ola-and-indriver-cl-27e5f</string>
+</resources>
